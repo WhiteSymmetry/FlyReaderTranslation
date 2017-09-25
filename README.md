@@ -32,7 +32,7 @@ You need to read [Legal Notices](Legal%20Notices.md) first.
 * [हिन्दी](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/hi.csv)
 * [한국의](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/ko.csv)
 * [ไทย](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/th.csv)
-* [Türk](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/tr.csv)
+* [Türkçe](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/tr.csv)
 * [Português](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/pt.csv)
 * [Magyar](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/hu.csv)
 * [Polski](https://github.com/yinyue200/FlyReaderTranslation/blob/master/FlyReaderMultilingualResourcesSolution/WebApplication1/pl.csv)
